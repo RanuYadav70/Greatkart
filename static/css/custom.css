@@ -56,6 +56,7 @@ label:hover ~ input:checked ~ label{
 ul.thumb {
     margin: 0 auto;
     padding: 0;
+    float:left;
    
 }
 
@@ -69,10 +70,6 @@ ul.thumb li {
 ul.thumb li img {
     width: 80px;
     height: 80px;
-    border: 2px solid #e01c1c;
+    border: 2px solid gray;
     cursor: pointer;
 } 
-
-ul.thumb li img {
-    width: 40px;
-}
