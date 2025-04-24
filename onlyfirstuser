@@ -1,0 +1,13 @@
+Email: ranuyadavg748@gmail.com
+Username: djangoadmin
+First name: Ranu
+Last name: Yadav
+Password: 
+Password (again):
+The password is too similar to the last name.
+This password is too short. It must contain at least 8 characters.
+Bypass password validation and create user anyway? [y/N]: n
+Password: Yadav@1234
+Password (again):
+Superuser created successfully.
+PS C:\Users\Ranuy\OneDrive\Desktop\Greatkart> 
